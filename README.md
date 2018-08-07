@@ -8,4 +8,5 @@
 6. CPSC 540: Machine Learning (Nando de Freitas)
 7. (NOT done throughly) CS 228: Probabilistic Graphical Models (experimented with pyro.ai)
 
-In addition to these courses I was also very actively reading research papers and implementing part of them, collectively from  resources most of the code that I have written is present here
+In addition to these courses I was also very actively reading research papers and implementing part of them.
+Most of the code that I have written can be found here.
